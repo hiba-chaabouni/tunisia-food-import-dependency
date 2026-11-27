@@ -1,0 +1,96 @@
+PartnerCode,PartnerISO,PartnerName,PartnerType,Region,SubRegion,EU_Member,AfCFTA_Signatory,Black_Sea_Coast,SupplierGroup
+8,ALB,Albania,Country,Europe,Southern Europe,No,No,No,Other
+12,DZA,Algeria,Country,Africa,Northern Africa,No,Yes,No,Africa & Middle East
+20,AND,Andorra,Country,Europe,Southern Europe,No,No,No,Other
+28,ATG,Antigua and Barbuda,Country,Americas,Caribbean,No,No,No,Americas
+899,_X ,"Areas, nes",Not a country,Unspecified,Unspecified,No,No,No,Unspecified
+32,ARG,Argentina,Country,Americas,South America,No,No,No,Americas
+36,AUS,Australia,Country,Oceania,Australia and New Zealand,No,No,No,Other
+40,AUT,Austria,Country,Europe,Western Europe,Yes,No,No,EU
+50,BGD,Bangladesh,Country,Asia,Southern Asia,No,No,No,Other
+112,BLR,Belarus,Country,Europe,Eastern Europe,No,No,No,Other
+56,BEL,Belgium,Country,Europe,Western Europe,Yes,No,No,EU
+70,BIH,Bosnia Herzegovina,Country,Europe,Southern Europe,No,No,No,Other
+76,BRA,Brazil,Country,Americas,South America,No,No,No,Americas
+100,BGR,Bulgaria,Country,Europe,Eastern Europe,Yes,No,Yes,Black Sea
+837,X1 ,Bunkers,Not a country,Unspecified,Unspecified,No,No,No,Unspecified
+854,BFA,Burkina Faso,Country,Africa,Sub-Saharan Africa,No,Yes,No,Africa & Middle East
+124,CAN,Canada,Country,Americas,Northern America,No,No,No,Americas
+156,CHN,China,Country,Asia,Eastern Asia,No,No,No,Other
+344,HKG,"China, Hong Kong SAR",Country,Asia,Eastern Asia,No,No,No,Other
+170,COL,Colombia,Country,Americas,South America,No,No,No,Americas
+191,HRV,Croatia,Country,Europe,Southern Europe,Yes,No,No,EU
+192,CUB,Cuba,Country,Americas,Caribbean,No,No,No,Americas
+196,CYP,Cyprus,Country,Asia,Western Asia,Yes,No,No,EU
+203,CZE,Czechia,Country,Europe,Eastern Europe,Yes,No,No,EU
+384,CIV,Côte d'Ivoire,Country,Africa,Sub-Saharan Africa,No,Yes,No,Africa & Middle East
+208,DNK,Denmark,Country,Europe,Northern Europe,Yes,No,No,EU
+218,ECU,Ecuador,Country,Americas,South America,No,No,No,Americas
+818,EGY,Egypt,Country,Africa,Northern Africa,No,Yes,No,Africa & Middle East
+233,EST,Estonia,Country,Europe,Northern Europe,Yes,No,No,EU
+246,FIN,Finland,Country,Europe,Northern Europe,Yes,No,No,EU
+251,FRA,France,Country,Europe,Western Europe,Yes,No,No,EU
+258,PYF,French Polynesia,Country,Oceania,Polynesia,No,No,No,Other
+268,GEO,Georgia,Country,Asia,Western Asia,No,No,Yes,Black Sea
+276,DEU,Germany,Country,Europe,Western Europe,Yes,No,No,EU
+300,GRC,Greece,Country,Europe,Southern Europe,Yes,No,No,EU
+320,GTM,Guatemala,Country,Americas,Central America,No,No,No,Americas
+348,HUN,Hungary,Country,Europe,Eastern Europe,Yes,No,No,EU
+352,ISL,Iceland,Country,Europe,Northern Europe,No,No,No,Other
+699,IND,India,Country,Asia,Southern Asia,No,No,No,Other
+360,IDN,Indonesia,Country,Asia,South-eastern Asia,No,No,No,Other
+364,IRN,Iran,Country,Asia,Southern Asia,No,No,No,Other
+372,IRL,Ireland,Country,Europe,Northern Europe,Yes,No,No,EU
+380,ITA,Italy,Country,Europe,Southern Europe,Yes,No,No,EU
+392,JPN,Japan,Country,Asia,Eastern Asia,No,No,No,Other
+400,JOR,Jordan,Country,Asia,Western Asia,No,No,No,Africa & Middle East
+398,KAZ,Kazakhstan,Country,Asia,Central Asia,No,No,No,Other
+417,KGZ,Kyrgyzstan,Country,Asia,Central Asia,No,No,No,Other
+428,LVA,Latvia,Country,Europe,Northern Europe,Yes,No,No,EU
+422,LBN,Lebanon,Country,Asia,Western Asia,No,No,No,Africa & Middle East
+434,LBY,Libya,Country,Africa,Northern Africa,No,Yes,No,Africa & Middle East
+440,LTU,Lithuania,Country,Europe,Northern Europe,Yes,No,No,EU
+458,MYS,Malaysia,Country,Asia,South-eastern Asia,No,No,No,Other
+462,MDV,Maldives,Country,Asia,Southern Asia,No,No,No,Other
+470,MLT,Malta,Country,Europe,Southern Europe,Yes,No,No,EU
+584,MHL,Marshall Isds,Country,Oceania,Micronesia,No,No,No,Other
+480,MUS,Mauritius,Country,Africa,Sub-Saharan Africa,No,Yes,No,Africa & Middle East
+484,MEX,Mexico,Country,Americas,Central America,No,No,No,Americas
+504,MAR,Morocco,Country,Africa,Northern Africa,No,Yes,No,Africa & Middle East
+104,MMR,Myanmar,Country,Asia,South-eastern Asia,No,No,No,Other
+520,NRU,Naoero,Country,Oceania,Micronesia,No,No,No,Other
+528,NLD,Netherlands,Country,Europe,Western Europe,Yes,No,No,EU
+554,NZL,New Zealand,Country,Oceania,Australia and New Zealand,No,No,No,Other
+579,NOR,Norway,Country,Europe,Northern Europe,No,No,No,Other
+490,S19,"Other Asia, nes",Not a country,Unspecified,Unspecified,No,No,No,Unspecified
+586,PAK,Pakistan,Country,Asia,Southern Asia,No,No,No,Other
+600,PRY,Paraguay,Country,Americas,South America,No,No,No,Americas
+604,PER,Peru,Country,Americas,South America,No,No,No,Americas
+616,POL,Poland,Country,Europe,Eastern Europe,Yes,No,No,EU
+620,PRT,Portugal,Country,Europe,Southern Europe,Yes,No,No,EU
+634,QAT,Qatar,Country,Asia,Western Asia,No,No,No,Africa & Middle East
+410,KOR,Rep. of Korea,Country,Asia,Eastern Asia,No,No,No,Other
+498,MDA,Rep. of Moldova,Country,Europe,Eastern Europe,No,No,No,Other
+642,ROU,Romania,Country,Europe,Eastern Europe,Yes,No,Yes,Black Sea
+643,RUS,Russian Federation,Country,Europe,Eastern Europe,No,No,Yes,Black Sea
+682,SAU,Saudi Arabia,Country,Asia,Western Asia,No,No,No,Africa & Middle East
+686,SEN,Senegal,Country,Africa,Sub-Saharan Africa,No,Yes,No,Africa & Middle East
+688,SRB,Serbia,Country,Europe,Southern Europe,No,No,No,Other
+702,SGP,Singapore,Country,Asia,South-eastern Asia,No,No,No,Other
+703,SVK,Slovakia,Country,Europe,Eastern Europe,Yes,No,No,EU
+705,SVN,Slovenia,Country,Europe,Southern Europe,Yes,No,No,EU
+710,ZAF,South Africa,Country,Africa,Sub-Saharan Africa,No,Yes,No,Africa & Middle East
+724,ESP,Spain,Country,Europe,Southern Europe,Yes,No,No,EU
+275,PSE,State of Palestine,Country,Asia,Western Asia,No,No,No,Africa & Middle East
+740,SUR,Suriname,Country,Americas,South America,No,No,No,Americas
+752,SWE,Sweden,Country,Europe,Northern Europe,Yes,No,No,EU
+757,CHE,Switzerland,Country,Europe,Western Europe,No,No,No,Other
+764,THA,Thailand,Country,Asia,South-eastern Asia,No,No,No,Other
+788,TUN,Tunisia,Re-import,Africa,Northern Africa,No,No,No,Unspecified
+792,TUR,Türkiye,Country,Asia,Western Asia,No,No,Yes,Black Sea
+842,USA,USA,Country,Americas,Northern America,No,No,No,Americas
+804,UKR,Ukraine,Country,Europe,Eastern Europe,No,No,Yes,Black Sea
+784,ARE,United Arab Emirates,Country,Asia,Western Asia,No,No,No,Africa & Middle East
+826,GBR,United Kingdom,Country,Europe,Northern Europe,No,No,No,Other
+858,URY,Uruguay,Country,Americas,South America,No,No,No,Americas
+704,VNM,Viet Nam,Country,Asia,South-eastern Asia,No,No,No,Other

@@ -1,0 +1,14 @@
+HS_Code,Product,Category,WorldBank_Benchmark,Has_Benchmark,Price_per_tonne_meaningful
+100119,Durum wheat,Cereals,"Wheat, US HRW (proxy)",Yes,Yes
+100199,Soft wheat,Cereals,"Wheat, US SRW",Yes,Yes
+1003,Barley,Cereals,Barley (ends Sep 2020),Yes,Yes
+1005,Maize,Cereals,Maize,Yes,Yes
+1006,Rice,Cereals,"Rice, Thai 5%",Yes,Yes
+1201,Soybeans,Oilseeds & feed,Soybeans,Yes,Yes
+2304,Soybean meal,Oilseeds & feed,Soybean meal,Yes,Yes
+1507,Soybean oil,Vegetable oils,Soybean oil,Yes,Yes
+1511,Palm oil,Vegetable oils,Palm oil,Yes,Yes
+1512,Sunflower oil,Vegetable oils,Sunflower oil,Yes,Yes
+1701,Sugar,Sugar,"Sugar, world (raw)",Yes,Yes
+0402,Milk powder,Dairy,None,No,Yes
+3004,Medicines,Health,None,No,No
