@@ -173,7 +173,7 @@ flowchart LR
 <table>
 <tr>
 <td align="center"><b>Hiba Chaabouni</b><br><sub>Business Analytics (major) and IT (minor)<br>Tunis Business School</sub><br><a href="https://github.com/hiba-chaabouni">GitHub</a></td>
-<td align="center"><b>Ghada Ben Amira</b><br><sub>Business Analytics (major) and IT (minor)<br>Tunis Business School</sub></td>
+<td align="center"><b>Ghada Ben Amira</b><br><sub>Business Analytics (major) and IT (minor)<br>Tunis Business School</sub><br><a href="https://github.com/ghadabenamira">GitHub</a></td>
 </tr>
 </table>
  
