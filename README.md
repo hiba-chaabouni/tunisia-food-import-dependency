@@ -44,3 +44,4 @@ Supplier groups used: EU, Black Sea, Americas, Africa & Middle East, Other, Unsp
 ## Author
 
 Hiba Chaabouni, Business Analytics (major) and IT (minor), Tunis Business School
+Ghada Ben Amira, Business Analytics (major) and IT (minor), Tunis Business School
